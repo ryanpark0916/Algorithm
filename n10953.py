@@ -5,3 +5,5 @@ for i in range(1, t + 1):
     for j in inArr:
         sum += int(j)
     print(sum)
+
+# 채점 결과: 성공
